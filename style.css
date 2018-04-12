@@ -1,0 +1,45 @@
+
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* {
+   outline: 1px solid red !important;
+}
+*/
+
+.titulo{
+
+  padding: 10px;
+  background-color: #1C2260;
+  color: #F9FAFB;
+
+
+
+}
+
+.app{
+
+	display: flex;
+
+}
+
+
+.imagen{
+
+	max-width: 460px;
+  max-height: 460px;
+  margin: 10px;
+
+
+}
+
+.descripcion{
+	color:#7C8B88;
+	margin: 20px;
+	max-width: 705px;
+}
